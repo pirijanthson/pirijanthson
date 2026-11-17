@@ -1,59 +1,32 @@
-# Hi, I'm Pirijanthson 👋
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Full-stack+Developer;Web+%26+Mobile+Apps;UI%2FUX+Driven+Builder;Problem+Solver;Always+Learning" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor=7C3AED,00C2FF&height=180&section=header&text=Pirijanthson&fontSize=42&animation=fadeIn&fontAlignY=50" alt="Pirijanthson banner" />
+  <br />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Full-stack+Developer;Web+%26+Mobile+Applications;UI%2FUX-focused+Builder;Always+Learning" alt="Full-stack developer, web and mobile applications, UI/UX-focused builder, always learning" />
+  <br />
+  <a href="https://github.com/pirijanthson"><img src="https://img.shields.io/badge/GitHub-pirijanthson-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+  <a href="https://github.com/pirijanthson/pirijanthson"><img src="https://img.shields.io/badge/Profile%20Repository-View-7C3AED?style=for-the-badge&logo=readme&logoColor=white" alt="Profile repository" /></a>
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor=7C3AED,00C2FF&height=180&section=header&text=Pirijanthson&fontSize=42&animation=fadeIn&fontAlignY=50" alt="Pirijanthson banner" />
-</p>
+## About
 
-A passionate software developer focused on building clean, engaging, and practical digital experiences. I enjoy turning ideas into working products across web applications, mobile apps, and user-centered interfaces.
+I’m a software developer who enjoys turning ideas into practical digital products. My work spans web applications, mobile apps, backend systems, and user-focused interfaces. I care about building experiences that are clear, useful, responsive, and maintainable.
 
-<p align="center">
-  <a href="https://github.com/pirijanthson">
-    <img src="https://img.shields.io/badge/GitHub-pirijanthson-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://github.com/pirijanthson/pirijanthson">
-    <img src="https://img.shields.io/badge/Profile%20Repo-pirijanthson%2Fpirijanthson-8A2BE2?style=for-the-badge" alt="Profile Repo" />
-  </a>
-</p>
+- Full-stack development with an emphasis on usability and real-world value
+- Frontend interfaces, backend logic, and database-driven applications
+- Android development and mobile-first product experiences
+- Design thinking and engineering brought together to create polished products
+- Continually learning modern technologies, application architecture, and AI-powered experiences
 
-## About Me
+## Areas of Focus
 
-- 💻 I build full-stack applications with a strong focus on usability and real-world value.
-- 🌐 My work spans frontend development, backend logic, database-driven systems, and responsive design.
-- 📱 I also enjoy mobile app development and creating interfaces that feel intuitive and polished.
-- 🚀 I like combining design thinking with engineering to create products that are both functional and visually appealing.
-- 📚 I am continuously learning modern web technologies, application architecture, and AI-powered experiences.
-- 🤝 I enjoy collaborating on projects that solve real problems and improve user experience.
+| Area | Focus |
+|---|---|
+| Frontend | Responsive interfaces, component-driven UI, interaction design, React, JavaScript, and TypeScript |
+| Backend | REST APIs, server-side logic, authentication, and data handling with Node.js, Express, and PHP |
+| Mobile | Android application interfaces and app logic using Java and Kotlin |
+| Product | Practical problem solving, prototyping, clean implementation, and maintainability |
 
-## What I Do
-
-### Frontend Development
-- Responsive, modern interfaces
-- Component-driven UI design
-- User experience and interaction design
-- JavaScript, TypeScript, HTML, CSS, React
-
-### Backend & Full-Stack Development
-- REST APIs and server-side logic
-- Authentication and data handling
-- Database-connected applications
-- Node.js, Express, PHP, TypeScript
-
-### Mobile App Development
-- Android app interfaces and app logic
-- Kotlin and Java-based mobile experiences
-- User-friendly mobile product design
-
-### Product Mindset
-- Research-driven problem solving
-- Design-to-development workflow
-- Practical and scalable solutions
-- Focus on clean implementation and maintainability
-
-## Tech Stack
+## Technology Stack
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -63,7 +36,7 @@ A passionate software developer focused on building clean, engaging, and practic
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### Backend / Full-Stack
+### Backend and APIs
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -74,7 +47,7 @@ A passionate software developer focused on building clean, engaging, and practic
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-### Tools & Practices
+### Tools and Practices
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Responsive Design](https://img.shields.io/badge/Responsive-Design-00C7B7?style=for-the-badge)
@@ -99,58 +72,33 @@ A passionate software developer focused on building clean, engaging, and practic
 
 ## Project Highlights
 
-### Web Development
-- Full-stack apps for task management, team collaboration, e-commerce, and reporting
-- Responsive and modern interfaces with a strong UX focus
-- Backend integration with user-centric frontend experiences
-
-### Mobile Applications
-- Android apps for utilities, surveys, finance, and educational experiences
-- Focus on intuitive interaction and practical functionality
-- User-centered design for mobile usability
-
-### UI / Prototyping
-- Design thinking and high-fidelity interfaces
-- Wireframing, prototyping, and product solution exploration
-- Strong interest in transforming concepts into real products
+- **Web:** Full-stack applications for task management, collaboration, e-commerce, and reporting.
+- **Mobile:** Android apps for utility, finance, and educational experiences.
+- **Design:** High-fidelity interfaces, prototyping, and design-to-development workflows.
 
 ## Current Focus
 
-I am currently building my skills in:
-
 - Full-stack architecture and scalable application design
 - Modern frontend frameworks and UI engineering
-- API development and seamless system integration
+- API development and system integration
 - Mobile-first product thinking
 - AI-enhanced workflows and user-centered digital solutions
 
-## GitHub Stats
+## GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pirijanthson&show_icons=true&hide_border=true&theme=radical&count_private=true" alt="Pirijanthson GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pirijanthson&theme=radical" alt="Pirijanthson GitHub streak" />
-</p>
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pirijanthson&show_icons=true&hide_border=true&theme=transparent&title_color=7C3AED&icon_color=00C2FF" alt="GitHub statistics for Pirijanthson" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=pirijanthson&theme=transparent&hide_border=true&ring=7C3AED&fire=00C2FF&currStreakLabel=7C3AED" alt="GitHub contribution streak for Pirijanthson" />
+</div>
 
 ## Collaboration
 
-I’m open to:
+I’m open to software development collaborations, freelance and contract work, internships, and projects with meaningful impact.
 
-- software development collaborations
-- freelance and contract work
-- internships and learning opportunities
-- product-building projects with a meaningful impact
-
-### Contact
-- GitHub: https://github.com/pirijanthson
-- Profile Repository: https://github.com/pirijanthson/pirijanthson
-
-## Closing Note
-
-Thank you for visiting my GitHub profile. I’m always learning, building, and improving my craft through practical projects, creative thinking, and real-world problem solving.
+<p align="center">
+  <a href="https://github.com/pirijanthson"><img src="https://img.shields.io/badge/Connect_on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Connect on GitHub" /></a>
+</p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=00C2FF&center=true&vCenter=true&width=500&lines=Let's+build+something+amazing!" alt="Motivational closing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=00C2FF&center=true&vCenter=true&width=500&lines=Let's+build+something+meaningful." alt="Let's build something meaningful" />
 </div>
